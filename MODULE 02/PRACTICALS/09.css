@@ -1,0 +1,10 @@
+#external{
+    font-family:ex;
+    color: azure;
+    background: #000;
+}
+
+@font-face{
+    font-family:ex;
+    src: url(PlaywriteDESAS-VariableFont_wght.ttf);
+}
